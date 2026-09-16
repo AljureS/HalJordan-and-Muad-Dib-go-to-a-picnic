@@ -1,0 +1,1 @@
+{"provider": "anthropic", "billing_mode": "subscription", "windows": [{"window_role": "5h", "duration_minutes": 300, "used_percent": 60, "resets_at": "2026-09-16T22:00:00Z"}, {"window_role": "7d", "duration_minutes": 10080, "used_percent": 90, "resets_at": "2026-09-20T00:00:00Z"}]}

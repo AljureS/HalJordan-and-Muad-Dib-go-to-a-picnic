@@ -1,0 +1,18 @@
+{
+ "rateLimits": {
+  "limitId": "codex",
+  "primary": {
+   "usedPercent": 18,
+   "windowDurationMins": 10080,
+   "resetsAt": 1790122652
+  },
+  "secondary": null,
+  "credits": {
+   "hasCredits": false,
+   "unlimited": false,
+   "balance": "0"
+  },
+  "planType": "plus",
+  "rateLimitReachedType": null
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "rateLimits": {
+  "limitId": "codex",
+  "primary": {
+   "usedPercent": 40,
+   "windowDurationMins": 300,
+   "resetsAt": 1789590000
+  },
+  "secondary": {
+   "usedPercent": 100,
+   "windowDurationMins": 10080,
+   "resetsAt": 1790100000
+  },
+  "planType": "pro",
+  "rateLimitReachedType": "rate_limit_reached"
+ },
+ "rateLimitsByLimitId": {
+  "codex": {
+   "limitId": "codex",
+   "limitName": "Codex",
+   "normalModelSlug": "gpt-5.3-codex",
+   "primary": {
+    "usedPercent": 40,
+    "windowDurationMins": 300,
+    "resetsAt": 1789590000
+   },
+   "secondary": {
+    "usedPercent": 100,
+    "windowDurationMins": 10080,
+    "resetsAt": 1790100000
+   },
+   "planType": "pro",
+   "rateLimitReachedType": "rate_limit_reached"
+  },
+  "codex_bengalfox": {
+   "limitId": "codex_bengalfox",
+   "limitName": "GPT-5.3-Codex-Spark",
+   "normalModelSlug": "gpt-5.3-codex-spark",
+   "primary": {
+    "usedPercent": 5,
+    "windowDurationMins": 300,
+    "resetsAt": 1789590000
+   },
+   "secondary": {
+    "usedPercent": 12,
+    "windowDurationMins": 10080,
+    "resetsAt": 1790100000
+   },
+   "planType": "pro",
+   "rateLimitReachedType": null
+  }
+ }
+}
